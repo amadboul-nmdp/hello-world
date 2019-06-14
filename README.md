@@ -4,6 +4,6 @@ Hello-world GitHub repository
 
 This is pretty cool
 
-##How to run this code ?
+## How to run this code ?
 
 #
